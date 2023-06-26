@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(
+    to left,
+    rgba(65, 146, 146, 0.699),
+    rgba(0, 0, 255, 0.448)
+  );
+}
+
+header{
+    background-color: rgba(0, 0, 255, 0.096) ;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px 0;
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.521);
+}
+
+header h1{
+    
+}
